@@ -1,6 +1,6 @@
 # simple_crud_sqflite
 
-A new Flutter project.
+A Simple CRUD SQFLite with Flutter
 
 ## Getting Started
 
